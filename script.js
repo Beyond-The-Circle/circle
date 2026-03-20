@@ -273,36 +273,9 @@ function closeProfileModal() {
   }, 300);
 }
 
-/* ──────────────────────────────────────────────────────────
-   MODAL: Open hero modal
-   ────────────────────────────────────────────────────────── */
-function openHeroModal() {
-  const overlay = document.getElementById('heroModalOverlay');
-  overlay.removeAttribute('hidden');
-  requestAnimationFrame(() => overlay.classList.add('is-open'));
-  document.getElementById('heroModalClose').focus();
-  document.body.style.overflow = 'hidden';
-}
 
-function closeHeroModal() {
-  const overlay = document.getElementById('heroModalOverlay');
-  overlay.classList.remove('is-open');
-  setTimeout(() => {
-    overlay.setAttribute('hidden', '');
-    document.body.style.overflow = '';
-  }, 300);
-}
-
-/* ──────────────────────────────────────────────────────────
-   EVENT LISTENERS
-   ────────────────────────────────────────────────────────── */
 function bindEvents() {
-  // Hero card → hero modal
-  const heroCard = document.getElementById('heroCard');
-  heroCard.addEventListener('click', openHeroModal);
-  heroCard.addEventListener('keydown', e => {
-    if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); openHeroModal(); }
-  });
+  
 
   // Profile modal close
   document.getElementById('modalClose').addEventListener('click', closeProfileModal);
@@ -310,17 +283,12 @@ function bindEvents() {
     if (e.target === document.getElementById('modalOverlay')) closeProfileModal();
   });
 
-  // Hero modal close
-  document.getElementById('heroModalClose').addEventListener('click', closeHeroModal);
-  document.getElementById('heroModalOverlay').addEventListener('click', e => {
-    if (e.target === document.getElementById('heroModalOverlay')) closeHeroModal();
-  });
+  
 
   // Escape key closes any open modal
   document.addEventListener('keydown', e => {
     if (e.key === 'Escape') {
       closeProfileModal();
-      closeHeroModal();
     }
   });
 }
