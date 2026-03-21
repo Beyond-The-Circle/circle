@@ -4,7 +4,7 @@ Name them exactly as referenced in script.js, e.g.:
   jirent.png
   myriad-of-arts.png
   faceless-spider.png
-  mar-learns.png
+  mark-learns.png
   n3thrv3in.png
   affordable-gamer.png
   radi-d-araneum.png
