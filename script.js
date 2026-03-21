@@ -52,7 +52,7 @@ const profiles = [
     }
   },
   {
-    name: "Mar Learns",
+    name: "Mark Learns",
     image: "Images/mar-learns.png",
     bio: "Learning out loud.",
     links: {
