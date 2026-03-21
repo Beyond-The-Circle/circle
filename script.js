@@ -17,8 +17,8 @@ const profiles = [
     image: "Images/spideyboy.png",
     bio: "Creator & visionary.",
     links: {
-      youtube:   "#",
-      instagram: "#"
+      youtube:   "https://www.youtube.com/channel/UCbsP7bCco2U_gDVrcRtd5eg",
+      instagram: "https://www.instagram.com/spideyboy_editz?igsh=MW90OTdiOHY4eWw2cQ=="
       
     }
   },
@@ -27,8 +27,8 @@ const profiles = [
     image: "Images/jirent.png",
     bio: "Content creator.",
     links: {
-      youtube:   "#",
-      instagram: "#"
+      youtube:   "https://www.youtube.com/channel/UCCkbVHFt_hYg1VZkpOpjd3A",
+      instagram: ""
     }
   },
   {
@@ -45,7 +45,7 @@ const profiles = [
     image: "Images/faceless-spider.png",
     bio: "The unseen creator.",
     links: {
-      youtube:   "#",
+      youtube:   "https://www.youtube.com/channel/UCogV1b4TAI_5c21CUPp9Ikw",
       instagram: "#"
     }
   },
