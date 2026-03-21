@@ -18,8 +18,8 @@ const profiles = [
     bio: "Creator & visionary.",
     links: {
       youtube:   "#",
-      instagram: "#",
-      tiktok:    "#"
+      instagram: "#"
+      
     }
   },
   {
@@ -28,8 +28,7 @@ const profiles = [
     bio: "Content creator.",
     links: {
       youtube:   "#",
-      tiktok:    "#",
-      discord:   "#"
+      instagram: "#"
     }
   },
   {
@@ -47,7 +46,6 @@ const profiles = [
     bio: "The unseen creator.",
     links: {
       youtube:   "#",
-      tiktok:    "#",
       instagram: "#"
     }
   },
@@ -57,6 +55,7 @@ const profiles = [
     bio: "Learning out loud.",
     links: {
       youtube:   "#",
+      Instagram: "#",
       tiktok:    "#"
     }
   },
@@ -66,8 +65,8 @@ const profiles = [
     bio: "Digital architect.",
     links: {
       youtube:   "#",
-      twitch:    "#",
-      discord:   "#"
+      Spotify:    "#",
+      instagram:   "#"
     }
   },
   {
@@ -76,7 +75,6 @@ const profiles = [
     bio: "Gaming for everyone.",
     links: {
       youtube:   "#",
-      tiktok:    "#",
       instagram: "#"
     }
   },
@@ -86,8 +84,7 @@ const profiles = [
     bio: "Web of wonders.",
     links: {
       youtube:   "#",
-      instagram: "#",
-      twitter:   "#"
+      instagram: "#"
     }
   }
 ];
