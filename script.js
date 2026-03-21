@@ -36,7 +36,7 @@ const profiles = [
     image: "Images/myriad-of-arts.png",
     bio: "Artist & storyteller.",
     links: {
-      youtube:   "#",
+      youtube:   "https://www.youtube.com/channel/UCF1SeSaiw1inT5ZL-Lw-yMQ",
       instagram: "#"
     }
   },
