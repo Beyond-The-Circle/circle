@@ -14,7 +14,7 @@
 const profiles = [
   {
     name: "Spideyboy",
-    image: "images/spideyboy.png",
+    image: "Images/spideyboy.png",
     bio: "Creator & visionary.",
     links: {
       youtube:   "#",
@@ -24,7 +24,7 @@ const profiles = [
   },
   {
     name: "Jirent",
-    image: "images/jirent.png",
+    image: "Images/jirent.png",
     bio: "Content creator.",
     links: {
       youtube:   "#",
@@ -34,7 +34,7 @@ const profiles = [
   },
   {
     name: "Myriad of Arts",
-    image: "images/myriad-of-arts.png",
+    image: "Images/myriad-of-arts.png",
     bio: "Artist & storyteller.",
     links: {
       youtube:   "#",
@@ -43,7 +43,7 @@ const profiles = [
   },
   {
     name: "Faceless Spider",
-    image: "images/faceless-spider.png",
+    image: "Images/faceless-spider.png",
     bio: "The unseen creator.",
     links: {
       youtube:   "#",
@@ -53,7 +53,7 @@ const profiles = [
   },
   {
     name: "Mar Learns",
-    image: "images/mar-learns.png",
+    image: "Images/mar-learns.png",
     bio: "Learning out loud.",
     links: {
       youtube:   "#",
@@ -62,7 +62,7 @@ const profiles = [
   },
   {
     name: "N3THRV3IN",
-    image: "images/n3thrv3in.png",
+    image: "Images/n3thrv3in.png",
     bio: "Digital architect.",
     links: {
       youtube:   "#",
@@ -72,7 +72,7 @@ const profiles = [
   },
   {
     name: "Affordable Gamer",
-    image: "images/affordable-gamer.png",
+    image: "Images/affordable-gamer.png",
     bio: "Gaming for everyone.",
     links: {
       youtube:   "#",
@@ -82,7 +82,7 @@ const profiles = [
   },
   {
     name: "Radi d Araneum",
-    image: "images/radi-d-araneum.png",
+    image: "Images/radi-d-araneum.png",
     bio: "Web of wonders.",
     links: {
       youtube:   "#",
