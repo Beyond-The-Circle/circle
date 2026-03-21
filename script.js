@@ -55,7 +55,7 @@ const profiles = [
     bio: "Learning out loud.",
     links: {
       youtube:   "#",
-      Instagram: "#",
+      instagram: "#",
       tiktok:    "#"
     }
   },
@@ -65,7 +65,7 @@ const profiles = [
     bio: "Digital architect.",
     links: {
       youtube:   "#",
-      Spotify:    "#",
+      spotify:    "#",
       instagram:   "#"
     }
   },
