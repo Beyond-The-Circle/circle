@@ -51,7 +51,7 @@ const profiles = [
   },
   {
     name: "Mark Learns",
-    image: "Images/mar-learns.png",
+    image: "Images/mark-learns.png",
     bio: "Learning out loud.",
     links: {
       youtube:   "#",
