@@ -182,13 +182,13 @@ button { cursor: pointer; border: none; background: none; font: inherit; }
 }
 .hero-bg-logo {
   position: absolute;
-  right: 50px;
+  right: 45px;
   top: 50%;
   transform: translateY(-50%);
   width: 280px;
   height: 280px;
   object-fit: contain;
-  opacity: 0.20;
+  opacity: 0.10;
   pointer-events: none;
   filter: saturate(1.4) contrast(1.1);
 }
