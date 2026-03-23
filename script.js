@@ -75,7 +75,7 @@ const profiles = [
     image: "Images/affordable-gamer.png",
     bio: "Gaming for everyone.",
     links: {
-      youtube:   "#",
+      youtube:   "https://www.youtube.com/channel/UCPoeZcfWmNzy7fivTTSEdug",
       instagram: "#"
     }
   },
