@@ -190,9 +190,9 @@ button { cursor: pointer; border: none; background: none; font: inherit; }
   width: 260px;
   height: 260px;
   object-fit: contain;
-  opacity: 0.10;
+  opacity: 0.20;
   pointer-events: none;
-  filter: saturate(1.6) contrast(1.5) brightness(1.1);
+  filter: saturate(1.6) contrast(1.5) brightness(1.2);
 }
 
 /* ═══════════════════════════════════════════════════════════
