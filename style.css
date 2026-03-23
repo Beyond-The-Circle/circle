@@ -188,7 +188,7 @@ button { cursor: pointer; border: none; background: none; font: inherit; }
   width: 260px;
   height: 260px;
   object-fit: contain;
-  opacity: 0.08;
+  opacity: 0.20;
   pointer-events: none;
   filter: blur(1px);
 }
