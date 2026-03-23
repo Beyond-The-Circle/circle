@@ -187,8 +187,8 @@ button { cursor: pointer; border: none; background: none; font: inherit; }
   right: 40px;
   top: 50%;
   transform: translateY(-50%);
-  width: 270px;
-  height: 270px;
+  width: 260px;
+  height: 260px;
   object-fit: contain;
   opacity: 0.10;
   pointer-events: none;
