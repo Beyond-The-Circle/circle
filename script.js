@@ -37,7 +37,7 @@ const profiles = [
     bio: "Artist & storyteller.",
     links: {
       youtube:   "https://www.youtube.com/channel/UCF1SeSaiw1inT5ZL-Lw-yMQ",
-      instagram: "#"
+      instagram: "https://www.instagram.com/myriad_of_arts?igsh=bzd0YzMzbml6ODNk"
     }
   },
   {
