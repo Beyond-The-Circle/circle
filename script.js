@@ -54,10 +54,11 @@ const profiles = [
     image: "Images/mark-learns.png",
     bio: "Learning out loud.",
     links: {
-      youtube:   "#",
+      youtube:   "https://www.youtube.com/channel/UCwJftir7SyPzhDW2dZn-3mg",
       instagram: "https://www.instagram.com/mark_learns?igsh=MTRrYWNsMm1mYmpjYQ==",
-      tiktok:    "#",
-      website: "#"
+      tiktok:    "https://www.tiktok.com/@mark_learns",
+      website: "marklearns.github.io/marklearns/#",
+      github: "https://github.com/marklearns"
     }
   },
   {
