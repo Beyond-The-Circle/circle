@@ -193,6 +193,8 @@ button { cursor: pointer; border: none; background: none; font: inherit; }
   opacity: 0.20;
   pointer-events: none;
   filter: saturate(1.6) contrast(1.5) brightness(1.2);
+  border-radius: 50%;
+  
 }
 
 /* ═══════════════════════════════════════════════════════════
