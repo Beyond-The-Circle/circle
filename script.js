@@ -28,7 +28,7 @@ const profiles = [
     bio:  "AMV, ANIME,MEMES,EDITS ETC.",
     links: {
       youtube:   "https://www.youtube.com/channel/UCCkbVHFt_hYg1VZkpOpjd3A",
-      instagram: ""
+      instagram: "https://www.instagram.com/__jirent__?igsh=YXEzcWJyNWVkOTZh"
     }
   },
   {
@@ -43,16 +43,15 @@ const profiles = [
   {
     name: "Faceless Spider",
     image: "Images/faceless-spider.png",
-    bio: "The unseen creator.",
+    bio: "AI VOICED FACTS AND SCIENCE CONTENTS",
     links: {
       youtube:   "https://www.youtube.com/channel/UCogV1b4TAI_5c21CUPp9Ikw",
-      instagram: "#"
     }
   },
   {
     name: "Mark Learns",
     image: "Images/mark-learns.png",
-    bio: "Learning out loud.",
+    bio: "LEARNING OUT LOUD.",
     links: {
       youtube:   "https://www.youtube.com/channel/UCwJftir7SyPzhDW2dZn-3mg",
       instagram: "https://www.instagram.com/mark_learns?igsh=MTRrYWNsMm1mYmpjYQ==",
@@ -64,7 +63,7 @@ const profiles = [
   {
     name: "N3THRV3IN",
     image: "Images/n3thrv3in.png",
-    bio: "Digital architect.",
+    bio: "MUSIC CREATOR.",
     links: {
       youtube:   "#",
       spotify:    "#",
@@ -72,18 +71,18 @@ const profiles = [
     }
   },
   {
-    name: "Affordable Gamer",
+    name: "Affordable_Gamer",
     image: "Images/affordable-gamer.png",
-    bio: "Gaming for everyone.",
+    bio: "JUST GAMING.",
     links: {
       youtube:   "https://www.youtube.com/channel/UCPoeZcfWmNzy7fivTTSEdug",
-      instagram: "#"
+      instagram: "https://www.instagram.com/affordable_gamer_?igsh=MW5ybXMwYzRpODRzYg=="
     }
   },
   {
     name: "Radi d Araneum",
     image: "Images/radi-d-araneum.png",
-    bio: "Web of wonders.",
+    bio: "PHILOSOPHER, BOOK WRITER(FUTURE).",
     links: {
       youtube:   "#",
       instagram: "#"
