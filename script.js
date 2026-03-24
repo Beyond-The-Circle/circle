@@ -15,7 +15,7 @@ const profiles = [
   {
     name: "Spideyboy",
     image: "Images/spideyboy.png",
-    bio: "Creator & visionary.",
+    bio: "AMV, ANIME,MEMES,EDITS ETC.",
     links: {
       youtube:   "https://www.youtube.com/channel/UCbsP7bCco2U_gDVrcRtd5eg",
       instagram: "https://www.instagram.com/spideyboy_editz?igsh=MW90OTdiOHY4eWw2cQ=="
@@ -25,7 +25,7 @@ const profiles = [
   {
     name: "Jirent",
     image: "Images/jirent.png",
-    bio: "Content creator.",
+    bio:  "AMV, ANIME,MEMES,EDITS ETC.",
     links: {
       youtube:   "https://www.youtube.com/channel/UCCkbVHFt_hYg1VZkpOpjd3A",
       instagram: ""
@@ -34,7 +34,7 @@ const profiles = [
   {
     name: "Myriad of Arts",
     image: "Images/myriad-of-arts.png",
-    bio: "Artist & storyteller.",
+    bio: "ARTIST, DIGITAL ART, DESIGNING.",
     links: {
       youtube:   "https://www.youtube.com/channel/UCF1SeSaiw1inT5ZL-Lw-yMQ",
       instagram: "https://www.instagram.com/myriad_of_arts?igsh=bzd0YzMzbml6ODNk"
@@ -55,7 +55,7 @@ const profiles = [
     bio: "Learning out loud.",
     links: {
       youtube:   "#",
-      instagram: "#",
+      instagram: "https://www.instagram.com/mark_learns?igsh=MTRrYWNsMm1mYmpjYQ==",
       tiktok:    "#",
       website: "#"
     }
