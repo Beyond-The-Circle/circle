@@ -194,6 +194,7 @@ button { cursor: pointer; border: none; background: none; font: inherit; }
   pointer-events: none;
   filter: saturate(1.6) contrast(1.5) brightness(1.2);
   border-radius: 50%;
+  drop-shadow(0 0 20px rgba(255,200,50,0.6))
   
 }
 
