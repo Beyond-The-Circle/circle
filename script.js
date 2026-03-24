@@ -56,7 +56,7 @@ const profiles = [
       youtube:   "https://www.youtube.com/channel/UCwJftir7SyPzhDW2dZn-3mg",
       instagram: "https://www.instagram.com/mark_learns?igsh=MTRrYWNsMm1mYmpjYQ==",
       tiktok:    "https://www.tiktok.com/@mark_learns",
-      website: "marklearns.github.io/marklearns/#",
+      website: "marklearns.github.io/marklearns/",
       github: "https://github.com/marklearns"
     }
   },
